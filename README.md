@@ -1,10 +1,10 @@
-###                                  Hi there, I am Israt Jahan ✌
+### Hi there, I am Israt Jahan ✌
                                          
-                                         Trying to Learn✨
+### Trying to Learn✨
 
 
 
 - 🔭 I’m currently working on Automation Testing
 - 🌱 I’m currently learning JavaScript, Nodejs and VueJs
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - ⚡ Fun fact: All that seems cool are not really!
