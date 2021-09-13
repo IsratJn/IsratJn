@@ -25,14 +25,4 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-## Coding Activity (Last 7 days on VS Code)
 
-| Coding Activity      | Languages |
-| ----------- | ----------- |
-| <img src="https://wakatime.com/share/@KhanShaheb34/8d383281-0676-4e4e-a74b-6518353d7337.svg" height="400" alt="CodingActivity"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/a8527b9c-20a8-4ea8-a35f-46bc3c694c7a.svg" height="400" alt="Languages"/>        |
-
-
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kfnouukuf7m7ahn58ukf" alt="trackgit-views" />
-</a>
