@@ -19,9 +19,14 @@
 </p>
 
 
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsratJn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<p>
+  <figure><embed src="https://wakatime.com/share/@24934794-b03d-412d-a443-b0c78098e31c/1f6eac1a-13ab-4631-9114-a0b01b0829d3.svg"></embed></figure>
+  </p>
