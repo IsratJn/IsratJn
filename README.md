@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Automation Testing
-- 🌱 I’m currently learning JavaScript, Nodejs and VueJs
+- 🌱 I’m currently learning JavaScript and VueJs
 
 ### Fun fact: All that seems cool are not really!
 <p align="left">
