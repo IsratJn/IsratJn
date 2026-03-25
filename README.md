@@ -1,32 +1,33 @@
-### Hi there, I am Israt Jahan ✌
+<div align="center">
 
-                                         
-### Trying to Learn✨
+# Israt Jahan
+**QA & Test Automation Engineer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-b247b5165/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israt9626@gmail.com)
 
+</div>
 
-- 🔭 I’m currently working on Automation Testing
-- 🌱 I’m currently learning JavaScript and VueJs
+---
 
-### Fun fact: All that seems cool are not really!
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.facebook.com/profile.php?id=100010297718985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/charlotte45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/isratJn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/JnIsrat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"  height="30" width="40" /></a>
+Test Engineer with 4 years of experience building automation frameworks and improving release quality across fintech, event management, and document intelligence. I focus on reducing manual effort through reliable automation and building test coverage that scales with the product.
 
-</p>
+Currently at **AsthaIT**, automating functional test suites with Selenium/Python and conducting performance testing with JMeter and K6. Previously at **Wall Street Docs**, where a Playwright smoke suite I built reduced manual testing effort by 80%.
 
+---
 
+## Skills
 
+**Automation** — Selenium, Playwright, Cypress, PyTest, TestNG
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsratJn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+**Languages** — Python, TypeScript, JavaScript
 
+**Tools** — Postman, JMeter, K6, Docker, Jira, Zephyr Scale, Git
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+---
 
-<p>
-  <figure><embed src="https://wakatime.com/share/@24934794-b03d-412d-a443-b0c78098e31c/1f6eac1a-13ab-4631-9114-a0b01b0829d3.svg"></embed></figure>
-  </p>
+## Projects
+
+- [**Selenium Testing**](https://github.com/IsratJn/Selenium-Projects) — E2E tests covering login, checkout, cart, and responsiveness
+- [**API Testing**](https://github.com/IsratJn/Api-Testing) — Endpoint validation, authentication, HTTP methods, error handling
+- [**Manual Testing**](https://github.com/IsratJn/Manual-Testing) — Test case documentation and JIRA-based test management
