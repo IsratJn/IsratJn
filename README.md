@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-b247b5165/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israt9626@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IsratJn)
 
 </div>
 
@@ -24,9 +23,9 @@ My focus is on making quality a property of the system, not an afterthought in t
 
 | Area | Tools & Technologies |
 |------|----------------------|
-| **Automation** | Selenium · Playwright · Cypress · PyTest · TestNG |
+| **Automation** |Playwright · Selenium · Cypress · PyTest · TestNG |
 | **Performance** | JMeter · K6 |
-| **Languages** | Python · TypeScript · JavaScript |
+| **Languages** |TypeScript · JavaScript · Python|
 | **API Testing** | Postman · REST |
 | **Infra & Tooling** | Docker · Git · SQL |
 | **Project & QA Ops** | Jira · Zephyr Scale |
