@@ -2,7 +2,7 @@
 
 # Israt Jahan
 
-**QA & Test Automation Engineer**
+**Senior Quality Assurance Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-b247b5165/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israt9626@gmail.com)
