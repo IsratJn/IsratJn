@@ -1,33 +1,71 @@
 <div align="center">
 
 # Israt Jahan
+
 **QA & Test Automation Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israt-jahan-b247b5165/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:israt9626@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IsratJn)
 
 </div>
 
 ---
 
-Test Engineer with 4 years of experience building automation frameworks and improving release quality across fintech, event management, and document intelligence. I focus on reducing manual effort through reliable automation and building test coverage that scales with the product.
+QA Engineer with 4 years of experience shipping automation frameworks that teams actually rely on — not just maintain. I build test infrastructure that reduces manual effort, surfaces real bugs before production, and holds up as products evolve.
 
-Currently at **AsthaIT**, automating functional test suites with Selenium/Python and conducting performance testing with JMeter and K6. Previously at **Wall Street Docs**, where a Playwright smoke suite I built reduced manual testing effort by 80%.
+Currently at **AsthaIT** as a Test Engineer, owning cross-product QA across multiple live applications — including functional automation with Selenium/Python and performance test suites with JMeter and K6. Previously at **Wall Street Docs**, where a Playwright-based smoke suite I built cut manual testing effort by **80%** across their document intelligence platform.
+
+My focus is on making quality a property of the system, not an afterthought in the sprint.
 
 ---
 
-## Skills
+## What I Work With
 
-**Automation** — Selenium, Playwright, Cypress, PyTest, TestNG
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Automation** | Selenium · Playwright · Cypress · PyTest · TestNG |
+| **Performance** | JMeter · K6 |
+| **Languages** | Python · TypeScript · JavaScript |
+| **API Testing** | Postman · REST |
+| **Infra & Tooling** | Docker · Git · SQL |
+| **Project & QA Ops** | Jira · Zephyr Scale |
 
-**Languages** — Python, TypeScript, JavaScript
+---
 
-**Tools** — Postman, JMeter, K6, Docker, Jira, Zephyr Scale, Git
+## Experience
+
+**Test Engineer** — AsthaIT *(current)*
+> Cross-product QA ownership across Docomate, Bengal Portal, and Pantry. Building and maintaining functional automation suites with Selenium/Python. Performance testing with JMeter and K6. Working across multiple teams with shared quality goals.
+
+**QA Engineer** — Wall Street Docs *(previous)*
+> Built a Playwright smoke suite from scratch that reduced manual testing time by 80%. Covered critical flows across a document intelligence platform under active development.
 
 ---
 
 ## Projects
 
-- [**Selenium Testing**](https://github.com/IsratJn/Selenium-Projects) — E2E tests covering login, checkout, cart, and responsiveness
-- [**API Testing**](https://github.com/IsratJn/Api-Testing) — Endpoint validation, authentication, HTTP methods, error handling
-- [**Manual Testing**](https://github.com/IsratJn/Manual-Testing) — Test case documentation and JIRA-based test management
+### 🔬 [Selenium Test Suite](https://github.com/IsratJn/Selenium-Projects)
+End-to-end automated tests covering login flows, cart management, checkout, and responsive layout validation. Written in Python with PyTest.
+
+### 📡 [API Test Suite](https://github.com/IsratJn/Api-Testing)
+Comprehensive endpoint coverage — authentication, HTTP methods, error cases, and response validation. Built to serve as living documentation for API behaviour.
+
+### 📋 [Manual Testing Artefacts](https://github.com/IsratJn/Manual-Testing)
+Structured test case documentation and JIRA-based test management. Useful reference for teams moving from manual to automated workflows.
+
+---
+
+## Currently Exploring
+
+- **AI-augmented QA** — Integrating LLM tooling into test generation and triage pipelines
+- **Shift-left testing strategies** — Catching defects earlier in the development cycle
+- **Observability in test infrastructure** — Making failures faster and easier to diagnose
+
+---
+
+<div align="center">
+
+*Open to QA and Test Automation roles — especially in teams building products at scale.*
+
+</div>
